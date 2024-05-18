@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: burlywood;
+}
+
+header img {
+    width: 60px;
+    height: 60px;
+}
+
+ p {
+    background-color: gold;
+    color:rgb(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h1 img {
+    width: 150px;
+    height: 150px;
+}
+
+main p{
+    background-color: #f7ec7fff;
+}
+p {
+    font-size: 20px;
+}
+
+p img {
+    width: 100px;
+    height: 100px;
+}
+
+footer {
+    background-color: goldenrod;
+    color: white;
+}
+
+footer p {
+    background-color: white;
+    color: blue;
